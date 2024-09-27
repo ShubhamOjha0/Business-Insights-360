@@ -16,7 +16,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Finance View
 **View Objective:**
-1. Created a dashboard for **[Finance View](path/to/Finance_View.pdf)**.
+1. Created a dashboard for **[Finance View](path/to/Finance View.pdf)**.
 
 - **KPI Visuals:** Displays KPI visuals for Net Sales, Gross Margin %, and Net Profit %, compared with benchmark values (Last 
 Year/Targets).
