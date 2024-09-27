@@ -5,7 +5,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ## [Live Dashboard: Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMDQxMjRmODktZmM0Mi00MzkxLWFiMzQtNjdlYWY1ZGIzMDVlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-### Home Page
+### Home Page 
 **View Objective:**
 1. Created a **[Home Page](path/to/Home_View.pdf)** for users to navigate to different views in the dashboard.
 2. The images provide navigation to their respective views.
