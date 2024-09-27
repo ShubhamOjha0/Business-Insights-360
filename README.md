@@ -16,7 +16,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Finance View
 **View Objective:**
-1. Created a dashboard for **[Finance View](path/to/Finance_View.pdf)**.
+1. Created a dashboard for _[Finance View](https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Finance_View.pdf)_.
 
 - **KPI Visuals:** Displays KPI visuals for Net Sales, Gross Margin %, and Net Profit %, compared with benchmark values (Last 
 Year/Targets).
@@ -25,7 +25,7 @@ Year/Targets).
 
 ### Sales View
 **View Objective:**
-1. Created a dashboard for **[Sales View](path/to/Sales_View.pdf)**.
+1. Created a dashboard for _[Sales View](https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Sales_View.pdf)_.
 
 - **Customer Performance:** Analysis based on Net Sales, Gross Margin, and Gross Margin %.
 - **Product Performance:** Performance metrics based on Net Sales, Gross Margin, and Gross Margin %.
@@ -36,7 +36,7 @@ Year/Targets).
 
 ### Marketing View
 **View Objective:**
-1. Created a dashboard for **[Marketing View](path/to/Marketing_View.pdf)**.
+1. Created a dashboard for _[Marketing View]https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Marketing_View.pdf)_.
 
 - **Product Performance:** Analysis based on Net Sales, Gross Margin, and Net Profit metrics.
 - **Region/Market/Customer Performance:** Customer performance filtered by key metrics and market or region.
@@ -45,7 +45,7 @@ Year/Targets).
 
 ### Supply Chain View
 **View Objective:**
-1. Created a dashboard for **[Supply Chain View](path/to/SupplyChain_View.pdf)**.
+1. Created a dashboard for _[Supply Chain View](https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/SupplyChain_View.pdf)_.
 
 - **KPI Visuals:** KPI visuals for Forecast Accuracy, Net Error, and ABS Error compared with benchmark values (Last Year).
 - **Accuracy/Net Error Trend:** Monthly distribution of Net Error and Forecast Accuracy using a line and clustered column chart.
@@ -53,7 +53,7 @@ Year/Targets).
 
 ### Executive View
 **View Objective:**
-1. Created a dashboard for **[Executive View](path/to/Executive_View.pdf)**.
+1. Created a dashboard for _[Executive View](https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Executive_View.pdf)_.
 
 - **KPI Visuals:** KPI visuals for Forecast Accuracy, Net Sales, Gross Margin %, and Net Profit % compared with benchmark values (Last Year/Targets).
 - **Revenue Distribution:** Divided by division and channel using respective donut charts.
