@@ -36,7 +36,7 @@ Year/Targets).
 
 ### Marketing View
 **View Objective:**
-1. Created a dashboard for _[Marketing View]https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Marketing_View.pdf)_.
+1. Created a dashboard for _[Marketing View](https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Marketing_View.pdf)_.
 
 - **Product Performance:** Analysis based on Net Sales, Gross Margin, and Net Profit metrics.
 - **Region/Market/Customer Performance:** Customer performance filtered by key metrics and market or region.
