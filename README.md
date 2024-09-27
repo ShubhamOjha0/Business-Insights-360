@@ -7,7 +7,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Home Page
 **View Objective:**
-1. Created a Home Page for users to navigate to different views in the dashboard.
+1. Created a **[Home Page](path/to/Home_View.pdf)** for users to navigate to different views in the dashboard.
 2. The images provide navigation to their respective views.
 
 - **Last Refreshed Date:** Shows the last date when the database was refreshed.
@@ -16,7 +16,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Finance View
 **View Objective:**
-1. Created a dashboard for Finance View.
+1. Created a dashboard for **[Finance View](path/to/Finance_View.pdf)**
 
 - **KPI Visuals:** Displays KPI visuals for Net Sales, Gross Margin %, and Net Profit %, compared with benchmark values (Last Year/Targets).
 - **Profit & Loss Statement:** Summary of a company's revenues, expenses, and profits/losses over a specific period.
@@ -24,7 +24,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Sales View
 **View Objective:**
-1. Created a dashboard for Sales View.
+1. Created a dashboard for **[Sales View](path/to/Sales_View.pdf)**.
 
 - **Customer Performance:** Analysis based on Net Sales, Gross Margin, and Gross Margin %.
 - **Product Performance:** Performance metrics based on Net Sales, Gross Margin, and Gross Margin %.
@@ -33,7 +33,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Marketing View
 **View Objective:**
-1. Created a dashboard for Marketing View.
+1. Created a dashboard for **[Marketing View](path/to/Marketing_View.pdf)**.
 
 - **Product Performance:** Analysis based on Net Sales, Gross Margin, and Net Profit metrics.
 - **Region/Market/Customer Performance:** Customer performance filtered by key metrics and market or region.
@@ -42,7 +42,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Supply Chain View
 **View Objective:**
-1. Created a dashboard for Supply Chain View.
+1. Created a dashboard for **[Supply Chain View](path/to/SupplyChain_View.pdf)**.
 
 - **KPI Visuals:** KPI visuals for Forecast Accuracy, Net Error, and ABS Error compared with benchmark values (Last Year).
 - **Accuracy/Net Error Trend:** Monthly distribution of Net Error and Forecast Accuracy using a line and clustered column chart.
@@ -50,7 +50,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Executive View
 **View Objective:**
-1. Created a dashboard for Executive View.
+1. Created a dashboard for **[Executive View](path/to/Executive_View.pdf)**.
 
 - **KPI Visuals:** KPI visuals for Forecast Accuracy, Net Sales, Gross Margin %, and Net Profit % compared with benchmark values (Last Year/Targets).
 - **Revenue Distribution:** Divided by division and channel using respective donut charts.
