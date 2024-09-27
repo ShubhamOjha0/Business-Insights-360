@@ -7,7 +7,7 @@ AtliQ Hardware is growing rapidly in recent years, and they have decided to impl
 
 ### Home Page 
 **View Objective:**
-1. Created a **[Home Page]((https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Home_View.pdf)_ ** for users to navigate to different views in the dashboard.
+1. Created a **[Home Page]**(https://github.com/ShubhamOjha0/Business-Insights-360/blob/main/Home_View.pdf)_ for users to navigate to different views in the dashboard.
 2. The images provide navigation to their respective views.
 
 - **Last Refreshed Date:** Shows the last date when the database was refreshed.
